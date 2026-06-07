@@ -31,7 +31,7 @@ My interests lie at the intersection of:
 
 ## Experience
 
-### Research Assistant | Wharton Impact Initiative
+### Data Science Research Assistant | Wharton Impact Initiative
 
 * Develop data pipelines using Python, SQL, AWS Athena, and Amazon S3
 * Conduct large-scale data integration and entity matching
