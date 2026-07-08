@@ -118,5 +118,5 @@ I focus on building projects that are not only technically sound, but also clear
 ## 🌐 Connect With Me
 
 - Portfolio: [gaurangkakade.com](https://gaurangkakade.com)
-- LinkedIn: [linkedin.com/in/gaurang-kakade](https://linkedin.com/in/gaurang-kakade)
+- LinkedIn: [linkedin.com/in/gaurang-kakade](https://www.linkedin.com/in/gaurang-kakade-813462204/)
 - Email: [gaurangkakade1@gmail.com](mailto:gaurangkakade1@gmail.com)
